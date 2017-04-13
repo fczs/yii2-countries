@@ -1,0 +1,16 @@
+.idea/
+runtime/
+node_modules/
+tests/
+vendor/
+mail/
+/composer.lock
+/LICENSE.md
+/yii
+/yii.bat
+/requirements.php
+/codeception.yml
+/.bowerrc
+/commands/
+/config/db.php
+/web/manifest.appcache
